@@ -1,2 +1,2 @@
 # Resume
-I Build Resume using HTML &amp; CSS.
+I had Built a Resume using HTML &amp; CSS.
